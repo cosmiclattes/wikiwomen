@@ -79,3 +79,7 @@
 .dataTableContainer .dataTables_wrapper .dataTables_paginate .paginate_button.current, .table .dataTables_wrapper .dataTables_paginate .paginate_button.current:hover{
 	background: linear-gradient(to bottom, #dcdcdc 100%, #DCDCDC 100%)
 }
+
+.container{
+	font-size: 12px;
+}
