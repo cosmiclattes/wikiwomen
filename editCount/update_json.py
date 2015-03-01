@@ -13,10 +13,10 @@ fullDataPath = '/home/ubuntu/wikiWomen_data/data.json'
 
 headers = { 'User-Agent' : 'Womens edit a thon India' }
 
-cmtitle = "Category:Articles_created_or_expanded_during_Women's_History_Month_(India)_-_2014"
+cmtitle = "Category:Articles_created_or_expanded_during_Women's_History_Month_(India)_-_2015"
 apiUrl = 'https://en.wikipedia.org/w/api.php'
 
-eventStartTimestamp = 20140301000000
+eventStartTimestamp = 20150301000000
 
 categoryData =  {
                   'action' : 'query',
